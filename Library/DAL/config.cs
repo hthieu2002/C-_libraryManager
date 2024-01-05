@@ -7,10 +7,10 @@
 <<<<<<< HEAD
     public class configUrl
     {
-        public static string Url = "D:\\2023-2024 (2)\\C#\\Library\\Library_WindowsForms\\public\\ImageStatistics\\";
+        public static string Url = "Url\\ImageStatistics\\";
 
-       // public static string UrlImageUser = "D:\\2023-2024 (2)\\C#\\Library\\Library_WindowsForms\\public\\admin\\user.jpg";
-        public static string uploadImage = "D:\\2023-2024 (2)\\C#\\Library\\Library_WindowsForms\\public\\ImageUser\\";
+       // public static string UrlImageUser = "Url\\public\\admin\\user.jpg";
+        public static string uploadImage = "Url\\public\\ImageUser\\";
         public string GetImagePath(string imageName)
         {
             return Path.Combine(Url, imageName);
