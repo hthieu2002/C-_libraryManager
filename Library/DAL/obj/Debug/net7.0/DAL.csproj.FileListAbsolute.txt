@@ -1,0 +1,15 @@
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\2023-2024 (2)\C#\Library\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\2023-2024 (2)\C#\Library\DAL\bin\Debug\net7.0\DAL.dll
+D:\2023-2024 (2)\C#\Library\DAL\bin\Debug\net7.0\DAL.pdb
+D:\2023-2024 (2)\C#\Library\DAL\bin\Debug\net7.0\DAO.dll
+D:\2023-2024 (2)\C#\Library\DAL\bin\Debug\net7.0\DAO.pdb
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.dll
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\DAL.pdb
+D:\2023-2024 (2)\C#\Library\DAL\obj\Debug\net7.0\ref\DAL.dll

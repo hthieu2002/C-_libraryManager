@@ -1,0 +1,17 @@
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\2023-2024 (2)\C#\Library\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\2023-2024 (2)\C#\Library\BLL\bin\Debug\net7.0\BLL.dll
+D:\2023-2024 (2)\C#\Library\BLL\bin\Debug\net7.0\BLL.pdb
+D:\2023-2024 (2)\C#\Library\BLL\bin\Debug\net7.0\DAL.dll
+D:\2023-2024 (2)\C#\Library\BLL\bin\Debug\net7.0\DAO.dll
+D:\2023-2024 (2)\C#\Library\BLL\bin\Debug\net7.0\DAL.pdb
+D:\2023-2024 (2)\C#\Library\BLL\bin\Debug\net7.0\DAO.pdb
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.dll
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\BLL.pdb
+D:\2023-2024 (2)\C#\Library\BLL\obj\Debug\net7.0\ref\BLL.dll

@@ -1,0 +1,11 @@
+D:\2023-2024 (2)\C#\Library\DAO\bin\Debug\net7.0\DAO.deps.json
+D:\2023-2024 (2)\C#\Library\DAO\bin\Debug\net7.0\DAO.dll
+D:\2023-2024 (2)\C#\Library\DAO\bin\Debug\net7.0\DAO.pdb
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\DAO.dll
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\refint\DAO.dll
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\DAO.pdb
+D:\2023-2024 (2)\C#\Library\DAO\obj\Debug\net7.0\ref\DAO.dll
